@@ -32,4 +32,4 @@ Additional Enhancements
 - Real-time Updates: Use WebSockets for real-time message updates if necessary.
 - Security: Ensure data validation and sanitization to prevent security vulnerabilities like SQL injection and XSS attacks
 
-By building and integrating these components, you will have a robust system for receiving, storing, and analyzing user messages
+By building and integrating these components, you will have a robust system for receiving, storing, and analyzing user messages.
